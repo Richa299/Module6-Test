@@ -1,0 +1,17 @@
+.registration-form{
+    width: 80%;
+    margin: auto !important;
+    
+}
+.title{
+   line-height: 2.0;
+   font-weight: 700;
+    text-align: center;
+    /* background-color:#1f2022; */
+    color: white;
+}
+
+.submit{
+    text-align: center;
+    
+}
