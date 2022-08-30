@@ -117,6 +117,15 @@ document.getElementById("phone-number").value="";
 document.getElementById("batch-number").value="";
 document.getElementById("module").value="";
 document.getElementById("TnC").checked=""
+
+document.getElementById("invalid-first-name").style.display="none";
+document.getElementById("invalid-last-name").style.display="none";  
+document.getElementById("invalid-email").style.display="none"; 
+document.getElementById("invalid-phone-number").style.display="none";
+document.getElementById("invalid-batch-no").style.display="none";
+document.getElementById("invalid-module").style.display="none";
+document.getElementById("invalid-tnc").style.display="none";
+
 alert("Your details have been saved successfully")
 }
 
